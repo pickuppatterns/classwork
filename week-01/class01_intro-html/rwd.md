@@ -13,5 +13,5 @@ The article goes into more detail and is definitely worth a read. For now, we ar
 
 ## How to get Responsive
 
-There are now dozens of tools available to us in CSS. Often you will use a combonation of these tools to create the effects you want. For now, we are going to introduce you to one tool that should get you started: media queries.
+There are now dozens of tools available to us in CSS. Often you will use a combination of these tools to create the effects you want. For now, we are going to introduce you to one tool that should get you started: media queries.
 

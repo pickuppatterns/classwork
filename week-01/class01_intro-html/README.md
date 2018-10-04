@@ -3,11 +3,13 @@
 Learn about semantic HTML and how to select the correct elements for any situation. Begin learning how to use CSS to create layouts.
 
 ## Topics:
+
+- [Kickoff!](kickoff.md)
 - [Mobile-First](mobile-first.md)
-- [Responsive Web Design](RWD.md)
-- [HTML](HTML.md)
+- [Responsive Web Design](rwd.md)
+- [HTML](html.md)
   - Semantic Layout Elements
-- [CSS](CSS.md) 
+- [CSS Layouts](css-layouts.md) 
   - Floats
   - Media Queries
   

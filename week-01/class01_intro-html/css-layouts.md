@@ -12,7 +12,7 @@ Floats work by "floating" elements next to each other. So if you want to have tw
 }
 ```
 
-There are definitely a handful of "gottchas!" in this method that you will need to keep an eye out for. 
+There are definitely a handful of "gotchas!" in this method that you will need to keep an eye out for. 
 
 ## Clearfix
 
