@@ -2,6 +2,7 @@
 
 # Resources
 - [VS Code Extensions](VSCode-Extensions.md)
+- [Links](links.md) - Collection of articles, docs, links, and other resources shared.
 
 # Class Overview
 - Week 1
