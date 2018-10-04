@@ -1,6 +1,6 @@
 # VS Code Extensions
 
-List of Extensions for VS Code divided into groups based on required / nonrequired. 
+List of Extensions for VS Code divided into groups based on required / nonrequired. Whenever you install a new extension, take a few minutes to read over the provided documentation and follow any setup steps that are listed out for you. Many extensions also will have optional settings you can configure that will allow you to control how the extension works. 
 
 ## Required
 
@@ -18,3 +18,4 @@ Requires having ESLint installed and configured in each project.
 
 ## Can Be Handy
 Extensions we like and think are useful, but not required.
+
