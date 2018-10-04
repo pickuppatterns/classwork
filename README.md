@@ -6,8 +6,8 @@
 
 # Class Overview
 - Week 1
-  - [Day 1: Intro HTML and CSS](week-01/class01_intro-html/README.md)
-  - Day 2: Intro JavaScript
-  - Day 3: Design and More JavaScript
-  - Day 4: Flexbox and DOM
-  - Day 5: Styles, Boxes, and Images
+  - [Day 1: Intro HTML and CSS](week-01-intro-web-dev/class01_intro-html-css-layout/README.md)
+  - [Day 2: Intro JavaScript](week-01-intro-web-dev/class02_intro-forms/README.md)
+  - [Day 3: Design and More JavaScript](week-01-intro-web-dev/class03_design_arrays-objects-querySelector/README.md)
+  - [Day 4: Flexbox and DOM](week-01-intro-web-dev/class04_flexbox_dom/README.md)
+  - [Day 5: Styles, Boxes, and Images](week-01-intro-web-dev/class05_css-styling/README.md)
