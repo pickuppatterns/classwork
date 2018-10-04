@@ -9,6 +9,12 @@ This extension launches a local development server with live reload feature for 
 
 Does not  require any external downloads or configuration. Read docs for how to launch.
 
+### Code Spell Checker | streetsidesoftware.code-spell-checker | [Docs](https://github.com/Jason-Rev/vscode-spell-checker)
+
+A basic spell checker that works well with camelCase code.
+
+Does not  require any external downloads or configuration.
+
 ### ESLint | dbaeumer.vscode-eslint | [Docs](https://github.com/Microsoft/vscode-eslint/blob/master/README.md)
 
 Integrates ESLint into VS Code.
