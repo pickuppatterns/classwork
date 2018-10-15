@@ -58,6 +58,14 @@ Emoji | Type
 
 
 # HTML
+
+  ## Forms
+  - 📰 [A List Apart: Sensible Forms](https://alistapart.com/article/sensibleforms)
+  - 📃 [MDN: `<form>` Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Forms)
+  - 📰 [MDN: How to Structure an HTML form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
+  - 📃 [MDN: Input Types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#Form_%3Cinput%3E_types)
+  - 📰 [Landon Schropp: HTML5 Buttons](https://davidwalsh.name/html5-buttons)
+
   ## Semantic Elements
   - 📕 [MDN HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   - 📕 [w3schools: HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) 
