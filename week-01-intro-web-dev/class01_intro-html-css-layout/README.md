@@ -5,6 +5,7 @@ Learn about semantic HTML and how to select the correct elements for any situati
 ## Topics:
 
 - [Kickoff!](kickoff.md)
+- Intro Lab!
 - [Mobile-First](mobile-first.md)
 - [Responsive Web Design](rwd.md)
 - [HTML](html.md)

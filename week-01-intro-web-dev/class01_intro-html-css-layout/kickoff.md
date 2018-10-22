@@ -88,6 +88,7 @@ make the computer do what is need.
 
 ## Academic Expectations
 
+* Laptop policy
 * Grades
 * Honor Code
 
