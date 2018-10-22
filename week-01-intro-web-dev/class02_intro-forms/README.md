@@ -55,9 +55,9 @@ Wait, what's a method...
 
 * Simple cases, read the form controls:
     * `.value`, `.checked`
-* Forms are hard, let's use a built-in helper!
-    * `var data = new FormData(form);`
-    * Congrats! You just created a class instance (OOP)
+* Forms an `elements` property that is both an array and a dictionary!
+    * But what is an array?
+    * And what is a dictionary?
     * To the Docs!
 * Remember to assign values to checkboxes, radio buttons and options!
 
