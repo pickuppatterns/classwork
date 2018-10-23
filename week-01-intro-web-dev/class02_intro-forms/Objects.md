@@ -42,7 +42,7 @@ console.log(value);
 ```
 
 Our primary use this style of property key will be using html/css
-kebob-cased ids and classes.
+`kebob-cased` ids and classes.
 
 In general JavaScript practice, we limit ourselves to camelCase property names (keys) with `a-z`, `A-Z`, `$`, `_`, and `0-9` (as long as it is not at the start of the property name).
 
