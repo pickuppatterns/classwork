@@ -6,8 +6,9 @@ Lab: Guessing Game for About Me
 
 ## Agenda
 
-1. [`<form>` and form controls](html-forms.md)
-2. JavaScripting all the forms
+1. Live Share
+1. [`<form>` and simple form controls](html-forms.md)
+1. JavaScripting all the forms
     * Simple Event Handlers
     * Getting DOM "actors" via `document.getElementById(<id>)`
     * Reading Values from Forms
@@ -23,8 +24,8 @@ Using element `onevent` attributes
 
 * Why? Curating material
 * Pseudo function, attribute value is function body (JavaScript)
-    * `onclick="doThing()"`
-    * `onsubmit="event.preventDefault(); handleSubmit()"`
+    * `onclick="doThing();"`
+    * `onsubmit="event.preventDefault(); checkGuesses();"`
 
 ## Getting Elements in the DOM
 
@@ -37,6 +38,11 @@ Using element `onevent` attributes
 * `document.getElementById(<id>)`
     * Retrieves the requested element
     * returns `null` if not found
+
+## Digression: JavaScript Objects
+
+[Objects](Objects.md) are collections of values where each value can be retrieved 
+or set by one specific key.  Aka **key/value** pairs.
 
 ## Manipulating Elements
 
@@ -58,7 +64,6 @@ Wait, what's a method...
 * Forms an `elements` property that is both an array and a dictionary!
     * But what is an array?
     * And what is a dictionary?
-    * To the Docs!
 * Remember to assign values to checkboxes, radio buttons and options!
 
 ### Writing/Changing Things
@@ -80,7 +85,15 @@ Wait, what's a method...
     * `if(condition)` and `else` (and `else if(condition)`)
     * `for(init;condition;post-loop)`
 
-## lab
+### Indexed Iteration
+
+There are a variety of things in JavaScript we can iterate using a
+sequence of numbers (0 based) to progress through the list:
+* Arrays
+* Strings
+* NodeList
+
+## Lab
 
 * Guessing Game for About Me
 
