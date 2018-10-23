@@ -8,7 +8,10 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <form id="first-form">
+  <form id="guess-form" name="guess-form"
+    onsubmit="event.preventDefault(); checkAnswers();"
+    onreset="resetAnswers()"
+  >
     <div>
       <label for="cats">Do I like cats?</label>
       <input type="text" id="cats" placeholder="yes/no" />
@@ -26,6 +29,6 @@
 
   </form>
 
-  <div>I am an extra div</div>
+  <script src="index.js"></script>
 </body>
 </html>

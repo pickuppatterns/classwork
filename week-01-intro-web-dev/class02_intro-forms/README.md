@@ -15,6 +15,10 @@ Lab: Guessing Game for About Me
     * Setting Text and Adding Classes to DOM elements
     * Review: JavaScript Control Flow
 
+## Branch
+
+Make a branch!
+
 ## Simple Event Handlers
 
 1. What is an event?
