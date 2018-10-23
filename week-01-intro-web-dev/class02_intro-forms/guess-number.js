@@ -1,4 +1,4 @@
-/* exported checkGuessNumber */
+/* exported checkGuessNumber, resetGuessNumber */
 
 // Good place to "initialize things" - meaning run
 // once when the script is loaded
@@ -18,6 +18,7 @@ function checkGuessNumber() {
     // eslint-disable-next-line eqeqeq
     if(guess == 4) {
         guessNumberResponse.textContent = 'you win!';
+        submit.disabled = true;
     }
     else {
         guessCount = guessCount + 1;
@@ -30,10 +31,7 @@ function checkGuessNumber() {
             submit.disabled = true;
         }
 
-    }
-
-    
-    
+    }  
 }
 
 function resetGuessNumber() {
@@ -41,4 +39,5 @@ function resetGuessNumber() {
     var submit = elements.guess;
     submit.disabled = false;
     guessCount = 0;
+    guessNumberResponse.textContent = '';
 }

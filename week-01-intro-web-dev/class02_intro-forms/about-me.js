@@ -24,7 +24,7 @@ function checkAboutMe() {
         catsInput.classList.add('correct');
         catsInput.classList.remove('incorrect');
     }
-    else {
+    else if(likeCats !== '') {
         catsInput.classList.add('incorrect');
         catsInput.classList.remove('correct');
     }
@@ -35,7 +35,7 @@ function checkAboutMe() {
         foodInput.classList.add('correct');
         foodInput.classList.remove('incorrect');
     } 
-    else {
+    else if(favoriteFood !== '') {
         foodInput.classList.add('incorrect');
         foodInput.classList.remove('correct');
     }
