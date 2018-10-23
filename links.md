@@ -44,6 +44,7 @@ Emoji | Type
   
   ## Layout Methods
   - 📰 [CSS-Tricks: All About Floats](https://css-tricks.com/all-about-floats/)
+  - 📰 [CSS-Tricks: Snippets - ClearFix](https://css-tricks.com/snippets/css/clear-fix/)  
  
   ## Media Queries
   - 📕 [MDN: Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#Media_features)
@@ -92,5 +93,5 @@ Emoji | Type
 
   ## VS Code 
   - [Required / Recommended Extensions list](VSCode-Extensions.md)
-  - 📕 [Emmet](https://docs.emmet.io/)
+  - 📕🔨 [Emmet](https://docs.emmet.io/)
 
