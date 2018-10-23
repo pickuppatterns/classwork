@@ -13,6 +13,7 @@ Emoji | Type
 
 ## Topics:
 - CSS
+  - Animations
   - General
   - Layout Methods
   - Media Queries
@@ -20,6 +21,7 @@ Emoji | Type
   - Colors
   - Mobile First
   - Responsive Web Design
+  - Typography
 - HTML
   - Semantic Elements
 - JavaScript
@@ -32,6 +34,9 @@ Emoji | Type
 
 # CSS
   
+  ## Animations
+  - 👾 [Animate.css](https://daneden.github.io/animate.css/)
+
   ## General
   - 📕 [w3Schools: Color](https://www.w3schools.com/cssref/css_colors_legal.asp)
   - 📃 [w3Schools: Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
@@ -47,6 +52,7 @@ Emoji | Type
 
   ## Colors
   - 🎨 [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=all)
+  - 🎨 [Color Hunt](http://colorhunt.co/)
   - 🎨 [COLOURlovers](https://www.colourlovers.com/)
 
   ## Mobile First
@@ -55,6 +61,9 @@ Emoji | Type
 
   ## Responsive Web Design
   - 📰 [Smashing Magazine: Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+
+  ## Typography
+  - 📰 [Typography.js](http://kyleamathews.github.io/typography.js/)
 
 
 # HTML
@@ -73,11 +82,13 @@ Emoji | Type
 # JavaScript
   ## General
   - 🔨 [AST Explorer](https://astexplorer.net/)
+  - 🔨 [Repl.it (JS Sandbox)](https://repl.it/repls/GigaJauntyFormula)
 
 # Tools
 
   ## Misc.
   - 👾 [Emoji Dictionary](https://emojipedia.org)
+  - 👾 [Emoji List (Unicode.org)](https://unicode.org/emoji/charts/emoji-list.html)
 
   ## VS Code 
   - [Required / Recommended Extensions list](VSCode-Extensions.md)
