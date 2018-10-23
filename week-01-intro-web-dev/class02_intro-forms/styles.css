@@ -34,3 +34,7 @@ button[type="reset"] {
 .incorrect {
   background-color: pink;
 }
+
+.hidden {
+  display: none;
+}

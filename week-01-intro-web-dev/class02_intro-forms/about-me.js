@@ -1,13 +1,14 @@
+/* exported checkAboutMe, resetAboutMe */
 
 // Good place to "initialize things" - meaning run
 // once when the script is loaded
-var guessForm = document.getElementById('guess-form');
-var guessAnswer = document.getElementById('guess-answer');
+var aboutMeForm = document.getElementById('about-me-form');
+var aboutMeResponse = document.getElementById('about-me-response');
 
-function checkAnswers() {
+function checkAboutMe() {
     // this code is specific to when checkAnswers is called
 
-    var elements = guessForm.elements;
+    var elements = aboutMeForm.elements;
 
     var catsInput = elements.cats;
     var likeCats = catsInput.value;
@@ -39,13 +40,23 @@ function checkAnswers() {
         foodInput.classList.remove('correct');
     }
 
-    guessAnswer.textContent = 'You got ' + correct + ' out of 2';
+    aboutMeResponse.textContent = 'You got ' + correct + ' out of 2';
+
+    // lots of chaining
+    // document.getElementById('question-two').classList.remove('hidden');
 }
 
-function resetAnswers() {
+function resetAboutMe() {
+    var elements = aboutMeForm.elements;
+    var catsInput = elements.cats;
+    var foodInput = elements.food;
 
+    catsInput.classList.remove('correct');
+    catsInput.classList.remove('incorrect');
+    foodInput.classList.remove('correct');
+    foodInput.classList.remove('incorrect');
 
-    // eslint-disable-next-line no-console
-    console.log('answers would be reset!');
+    aboutMeResponse.textContent = '';
+
 }
 

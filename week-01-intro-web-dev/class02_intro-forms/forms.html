@@ -8,29 +8,55 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <form id="guess-form" name="guess-form"
-    onsubmit="event.preventDefault(); checkAnswers();"
-    onreset="resetAnswers()"
-  >
-    <div>
-      <label for="cats">Do I like cats?</label>
-      <input type="text" id="cats" name="cats" placeholder="yes/no" />
-    </div>
 
-    <div>
-      <label for="food">What is my favorite food?</label>
-      <input type="text" id="food" name="food" placeholder="hint: not pizza" />
-    </div>
+  <section>
+    <h2>Quiz on doggos:</h2>
+    <form id="about-me-form" name="about-me-form"
+      onsubmit="event.preventDefault(); checkAboutMe();"
+      onreset="resetAboutMe()"
+    >
+      <div>
+        <label for="cats">Do I like cats?</label>
+        <input type="text" id="cats" name="cats" placeholder="yes/no" />
+      </div>
 
-    <div>
-      <button type="submit">Submit Answers</button>
-      <button type="reset">Clear Form</button>
-    </div>
+      <div>
+        <label for="food">What is my favorite food?</label>
+        <input type="text" id="food" name="food" placeholder="hint: not pizza" />
+      </div>
 
-  </form>
+      <div>
+        <button type="submit">Guess</button>
+        <button type="reset">Play Again</button>
+      </div>
 
-  <p id="guess-answer"></p>
+    </form>
 
-  <script src="index.js"></script>
+    <p id="about-me-response"></p>
+  </section>
+
+  <section>
+    <h2>Guess My Favorite Number</h2>
+    <form id="guess-number-form"
+      onsubmit="event.preventDefault(); checkGuessNumber();"
+      onreset="resetGuessNumber()"
+    >
+      <div>
+        <label for="number">What is my favorite number?</label>
+        <input type="text" id="number" name="number" placeholder="1 - 10" />
+      </div>
+
+      <div>
+        <button type="submit" name="guess">Guess</button>
+        <button type="reset" name="play-again">Play Again</button>
+      </div>
+
+    </form>
+
+      <p id="guess-number-response"></p>
+  </section>
+
+  <script src="about-me.js"></script>
+  <script src="guess-number.js"></script>
 </body>
 </html>
