@@ -1,19 +1,63 @@
+# Class 03: Design / Arrays, Objects, QuerySelector
 
+## Agenda
 
-## topics
+* Design and Wire Frame
+* CSS Selectors
+* Document Query Selectors
+* Iteration of Arrays, Strings and NodeList
+* JavaScript Scope
 
-* CSS Selectors Part 2
-    * attribute
-    * pseudo:
-        * `:checked`
-        * `:hover`
-        * `:nth-child(even|odd)`
-* Design and Wireframe
-* Data Structures
-    * Arrays
-    * Dictionary (Objects)
+## Design and Wire Frame
 
-## lab(s)
+## CSS Selectors
 
-1. Wireframe hangman
+* attribute
+* pseudo:
+    * `:checked`
+    * `:hover`
+    * `:nth-child(even|odd)`
+
+## Document Query Selector
+
+Use a CSS selector to "query" the document for matching elements.
+
+* `querySelector` - first matching
+* `querySelectorAll` - list of all matching
+
+```js
+document.querySelectorAll('p'); 
+// all <p> elements
+
+document.querySelector('#guess-form'); 
+// first element with an id of "guess-form"
+
+document.querySelectorAll('input[name="topping"]:checked'); 
+// all <input name="topping"> that are currently checked
+```
+
+## Review: JavaScript Control Flow
+
+* Why? Want to run code conditionally or repetitively
+* Structure
+    ```js
+    keyword(condition) {
+        // body
+    }
+    ```
+* Most common:
+    * `if(condition)` and `else` (and `else if(condition)`)
+    * `for(init;condition;post-loop)`
+
+### Indexed Iteration
+
+There are a variety of things in JavaScript we can iterate using a
+sequence of numbers (0 based) to progress through the list:
+* Arrays
+* Strings
+* NodeList
+
+## Labs
+
+1. Wire frame guess-or-die
 1. Count Elements in About Me
