@@ -3,11 +3,21 @@
 ## Agenda
 
 * Code Review and Discussion
+* Grading and Assignment Expectations
 * Design and Wire Frame
 * CSS Selectors
 * Document Query Selectors
 * Iteration of Arrays, Strings and NodeList
 * JavaScript Scope
+
+## Code Review
+
+## Grading and Assignment Expectations
+
+* Use `classwork`!
+* Process, process, process!
+* Learn to work incrementally
+* Required to do your learning in public!
 
 ## Design and Wire Frame
 
