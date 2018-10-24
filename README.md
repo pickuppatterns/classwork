@@ -11,3 +11,9 @@
   - [Day 3: Design and More JavaScript](week-01-intro-web-dev/class03_design_arrays-objects-querySelector/README.md)
   - [Day 4: Flexbox and DOM](week-01-intro-web-dev/class04_flexbox_dom/README.md)
   - [Day 5: Styles, Boxes, and Images](week-01-intro-web-dev/class05_css-styling/README.md)
+- Week 2
+  - [Day 6](week-02/class06/README.md)
+  - [Day 7](week-02/class07/README.md)
+  - [Day 8](week-02/class08/README.md)
+  - [Day 9](week-02/class09/README.md)
+  - [Day 10](week-02/class10/README.md)
