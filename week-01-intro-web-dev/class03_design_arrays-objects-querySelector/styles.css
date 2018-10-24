@@ -1,0 +1,29 @@
+p {
+    background-color: lightsteelblue;
+}
+
+.content {
+    font-weight: bold;
+}
+
+.content:hover {
+    background-color: red;
+}
+
+#important {
+    margin: 20px 0;
+}
+
+input[name="meal"] {
+    margin: 10px;
+}
+
+input[name="meal"]:checked {
+    margin: 10px 10px 10px 0;
+}
+
+input[type="text"]:focus {
+    background-color: #aaa;
+}
+
+
