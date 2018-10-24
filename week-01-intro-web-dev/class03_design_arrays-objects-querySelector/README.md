@@ -4,11 +4,11 @@
 
 * Code Review and Discussion
 * Grading and Assignment Expectations
-* Design and Wire Frame
 * CSS Selectors
 * Document Query Selectors
 * Iteration of Arrays, Strings and NodeList
 * JavaScript Scope
+* Design and Wire Frame
 
 ## Code Review
 
@@ -18,8 +18,6 @@
 * Process, process, process!
 * Learn to work incrementally
 * Required to do your learning in public!
-
-## Design and Wire Frame
 
 ## CSS Selectors
 
@@ -75,6 +73,8 @@ sequence of numbers (0 based) to progress through the list:
 * `window` is at the top
 * `use strict`;
 * modules...
+
+## Design and Wire Frame
 
 ## Labs
 
