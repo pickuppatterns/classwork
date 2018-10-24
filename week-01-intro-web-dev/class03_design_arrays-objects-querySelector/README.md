@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* Code Review and Discussion
 * Design and Wire Frame
 * CSS Selectors
 * Document Query Selectors
@@ -49,13 +50,21 @@ document.querySelectorAll('input[name="topping"]:checked');
     * `if(condition)` and `else` (and `else if(condition)`)
     * `for(init;condition;post-loop)`
 
-### Indexed Iteration
+## Indexed Iteration
 
 There are a variety of things in JavaScript we can iterate using a
 sequence of numbers (0 based) to progress through the list:
 * Arrays
 * Strings
 * NodeList
+
+## JavaScript variable scope
+
+* Tree of scopes
+* Children access parents, but not siblings
+* `window` is at the top
+* `use strict`;
+* modules...
 
 ## Labs
 
