@@ -75,6 +75,7 @@ Emoji | Type
   - 📰 [Smashing Magazine: Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 
   ## Typography
+  - 📃 [Font Stacks](https://css-tricks.com/snippets/css/font-stacks/)
   - 📰 [Typography.js](http://kyleamathews.github.io/typography.js/)
 
 
