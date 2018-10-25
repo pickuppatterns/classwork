@@ -1,4 +1,4 @@
-Class 04: Flexbox, Moar DOM, Pair Programming
+# Class 04: Flexbox, Moar DOM, Pair Programming
 
 ## Agenda
 
