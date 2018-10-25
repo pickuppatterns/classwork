@@ -1,0 +1,29 @@
+.menu-content {
+    display: none;
+    flex-direction: column;
+    font-size: 1.5em;
+    
+}
+
+.menu-content a {
+    background: lightsteelblue;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+nav:hover  .menu-content{
+    display: flex;
+}
+
+@media (min-width: 500px) {
+    .menu-content {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .menu-toggle {
+        display: none;
+    }
+
+}
+
