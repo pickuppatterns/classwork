@@ -19,39 +19,45 @@ function makePairs() {
     // copy students 
     var copy = students.slice();
 
+    function getRandomStudent() {
+        // randomly select index
+        var index = getRandomIndex(copy.length);
+        // get student corresponding to that index
+        var student = copy[index];
+        // remove from copy
+        copy.splice(index, 1);
+
+        return student;
+    }
+
     // init empty array for pairs
     var pairs = [];
 
     // loop students - no students left
+    while(copy.length > 1) {
+
+        // create pair array
+        var pair = [];
     
-    // create pair array
-    var pair = [];
-
-    // randomly select one index as student one
-    var index1 = getRandomIndex(copy.length);
-    var student1 = copy[index1];
-    // put that student in pair
-    pair.push(student1);
-    // remove from students
-    copy.splice(index1, 1);
-
-    // randomly select two index as student two
-    var index2 = getRandomIndex(copy.length);
-    var student2 = copy[index2];
-    // put that student in pair
-    pair.push(student2);
-    // remove from students
-    copy.splice(index2, 1);
-
-    console.log(index1, index2, pair, copy);
-
-        
-
+        // get student and put in pair
+        var student1 = getRandomStudent();
+        pair.push(student1);
+        // get another student and put in pair
+        var student2 = getRandomStudent();
+        pair.push(student2);
 
         // what if only 1 left?
             // add to last pair
         
         // add them to pairs array
+        pairs.push(pair);
+    }
+
+    console.log(copy, pairs);
+
+        
+
+
 
     // loop pairs array
         // grab li by id
