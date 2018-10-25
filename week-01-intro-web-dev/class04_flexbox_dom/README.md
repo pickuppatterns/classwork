@@ -1,4 +1,4 @@
-Class 04: Flexbox, Moar DOM, Pair Programming
+# Class 04: Flexbox, Moar DOM, Pair Programming
 
 ## Agenda
 
@@ -52,6 +52,8 @@ Key software development process rigor:
     * come up with better names
 
 ## Flex Box
+
+Demo
 
 ## DOM
 
