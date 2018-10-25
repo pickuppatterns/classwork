@@ -149,7 +149,8 @@ Consistency between the code base in all four locations: their GitHub account, t
 
 ### Managing Switching with Git and GitHub
 
-1. Create a GitHub org. You can name in user1-user2 or anything you want.
+1. One person creates a GitHub org. You can name in user1-user2 or anything you want.
+1. Invite the other person as an owner of that GitHub org.
 1. Fork the lab to this GitHub org
 1. The driver clones the fork to their local computer
 1. At then end of the 25 minutes, the driver pushes the code (remember to add and commit!) to the fork
