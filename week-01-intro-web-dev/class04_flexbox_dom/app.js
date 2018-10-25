@@ -37,15 +37,11 @@ function makePairs() {
     while(copy.length > 1) {
 
         // create pair array
-        var pair = [];
+        var pair = [
+            getRandomStudent(),
+            getRandomStudent()
+        ];
     
-        // get student and put in pair
-        var student1 = getRandomStudent();
-        pair.push(student1);
-        // get another student and put in pair
-        var student2 = getRandomStudent();
-        pair.push(student2);
-
         // what if only 1 left?
             // add to last pair
         
