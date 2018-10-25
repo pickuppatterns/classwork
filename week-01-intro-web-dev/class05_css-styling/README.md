@@ -1,7 +1,7 @@
 
 ## topics
 
-* CSS Styly
+* CSS Style
     * color
     * fonts
     * ...
