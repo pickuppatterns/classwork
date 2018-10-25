@@ -8,8 +8,9 @@ var studentCount = document.getElementById('student-count');
 studentCount.textContent = students.length;
 
 // define tries
+var tries = 0;
 // reference tries span
-
+var triesSpan = document.getElementById('tries');
 
 
 // event handlers for making pairs
@@ -75,8 +76,9 @@ function makePairs() {
     }
 
     // increment tries
+    tries += 1;
     // set text content of tries
-
+    triesSpan.textContent = tries;
 }
 
 // based on https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
