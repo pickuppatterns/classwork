@@ -34,7 +34,7 @@ function makePairs() {
     var pairs = [];
 
     // loop students - no students left
-    while(copy.length > 1) {
+    while(copy.length > 0) {
 
         // create pair array
         var pair = [
@@ -43,7 +43,10 @@ function makePairs() {
         ];
     
         // what if only 1 left?
-            // add to last pair
+        if(copy.length === 1) {
+            // add to last pair, AND remove from copy
+            pair.push(copy.pop());
+        }
         
         // add them to pairs array
         pairs.push(pair);
