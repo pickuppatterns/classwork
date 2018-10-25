@@ -144,6 +144,13 @@ Consistency between the code base in all four locations: their GitHub account, t
 1. When the lab is complete, perform **1 PR** from the GitHub Org to the Class Repo for the lab against your pairs branch
 1. **Each person** does a separate Canvas submission
 
+** You must have a commit history that shows switching to have your lab graded **
+
+### What about Off-Hours?
+
+* Solo on your own time and branch
+* Submit what the pair did
+
 ## Lab
 
 Guess-or-die Game
