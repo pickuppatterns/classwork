@@ -48,6 +48,7 @@ Emoji | Type
   - 📽️ [What The Flexbox?!](https://flexbox.io/)
 
   ## General
+  - 🔨 [Can I Use?](https://caniuse.com/)
   - 📕 [w3Schools: Color](https://www.w3schools.com/cssref/css_colors_legal.asp)
   - 📃 [w3Schools: Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
   - 📕 [w3Schools: Units of Length](https://www.w3schools.com/cssref/css_units.asp)
