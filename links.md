@@ -10,10 +10,12 @@ Emoji | Type
 📕 | Docs / Reference
 👾 | Just for Fun
 🔨 | Tool
+📽️ | Video
 
 ## Topics:
 - CSS
   - Animations
+  - Flexbox
   - General
   - Layout Methods
   - Media Queries
@@ -36,6 +38,14 @@ Emoji | Type
   
   ## Animations
   - 👾 [Animate.css](https://daneden.github.io/animate.css/)
+
+  ## Flexbox
+  - 📃📕 [CSS-Tricks: Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - 📕 [CSS Reference: Flexbox](https://cssreference.io/flexbox/)
+  - 👾 [Flexbox Froggy](https://flexboxfroggy.com/)
+  - 🔨 [Flexbox Layout Explorer](http://www.csstutorial.org/flex-both.html)
+  - 📰 [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184)
+  - 📽️ [What The Flexbox?!](https://flexbox.io/)
 
   ## General
   - 📕 [w3Schools: Color](https://www.w3schools.com/cssref/css_colors_legal.asp)
