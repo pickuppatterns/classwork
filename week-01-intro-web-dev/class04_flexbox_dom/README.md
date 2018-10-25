@@ -115,7 +115,21 @@ Method or Prop | Notes
 
 ## Demo
 
-Pair Randomizer
+* Pair Randomizer
+
+## Refactoring with Functions!
+
+## Functions
+
+* Reuse behavior (encapsulate)
+* Code "on demand" (control flow)
+* Inputs and Outputs
+
+### Types
+
+1. **Named functions**
+1. Function expressions
+1. Arrow functions
 
 ## Pair Programming
 
