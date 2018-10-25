@@ -52,15 +52,14 @@ function makePairs() {
         pairs.push(pair);
     }
 
-    console.log(copy, pairs);
-
-        
-
-
 
     // loop pairs array
+    for(var i = 0; i < pairs.length; i++) {
         // grab li by id
+        var li = document.getElementById('pair-' + i);
         // change text content of the li
+        li.textContent = pairs[i];
+    }
 
     // increment tries
     // set text content of tries
