@@ -1,3 +1,4 @@
+/* exported students */
 
 var students = [
     'paigeegorry',
