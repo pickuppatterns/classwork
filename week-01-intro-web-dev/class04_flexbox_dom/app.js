@@ -53,12 +53,25 @@ function makePairs() {
     }
 
 
-    // loop pairs array
-    for(var i = 0; i < pairs.length; i++) {
-        // grab li by id
-        var li = document.getElementById('pair-' + i);
-        // change text content of the li
-        li.textContent = pairs[i];
+    // // loop pairs array
+    // for(var i = 0; i < pairs.length; i++) {
+    //     // grab li by id
+    //     var li = document.getElementById('pair-' + i);
+    //     // change text content of the li
+    //     li.textContent = pairs[i];
+    // }
+
+    var items = document.querySelectorAll('.pair');
+    for(var i = 0; i < items.length; i++) {
+        var li = items[i];
+        var pairToDisplay = pairs[i];
+        if(i < pairs.length) {
+            li.textContent = pairToDisplay;
+            li.classList.remove('hidden');
+        }
+        else {
+            li.classList.add('hidden');
+        }
     }
 
     // increment tries
