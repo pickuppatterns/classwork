@@ -12,6 +12,8 @@ Class 05 CSS Styling
 * Box Model
 * Images
 
+**Please be aware of noise level**
+
 ## Surveys and Quizzes
 
 Surveys:
