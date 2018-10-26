@@ -5,15 +5,25 @@ Class 05 CSS Styling
 
 * Facilities Update
 * Career Services with Shannon Wolcott
+* Surveys and Quizzes 
 * Brief Lab and Pairing Review/Questions
 * Gists for Journals
 * CSS Style
 * Box Model
 * Images
 
-## Career Services
+## Surveys and Quizzes
 
-Guest: **Shannon Wolcott**, Director of Career Services at Alchemy
+Surveys:
+
+* Go out 5:45 PM on Friday
+* Reminder email Sunday if no response
+* Cut-off 11:45PM Sunday
+
+Quizzes: 
+
+* Quiz 1 published
+* Can retake as many times as you like
 
 ## Lab/Pairing Review
 
