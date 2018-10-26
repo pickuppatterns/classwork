@@ -1,0 +1,22 @@
+body {
+    font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+}
+
+ul.pairs {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    justify-content: space-between;
+}
+
+ul.pairs li {
+    list-style: none;
+    border: 1px solid black;
+    padding: 3px;
+}
+
+.hidden {
+    display: none;
+}
+
+
