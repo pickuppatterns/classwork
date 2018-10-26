@@ -66,6 +66,7 @@ Emoji | Type
   - 🎨 [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=all)
   - 🎨 [Color Hunt](http://colorhunt.co/)
   - 🎨 [COLOURlovers](https://www.colourlovers.com/)
+  - 🎨 [Material Design Color Tool](https://material.io/tools/color/)
 
   ## Mobile First
   - 📰 [MDN: Mobile First](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive/Responsive/Mobile_first)
