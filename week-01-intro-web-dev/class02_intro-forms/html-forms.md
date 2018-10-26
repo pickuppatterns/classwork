@@ -9,7 +9,7 @@ Because forms are a point of user interaction, it is important to use the correc
 
 ***NOTE:** While you can normally nest most HTML elements, you should NEVER nest a form inside of another form. This causes unpredictable behavior.*
 
-Take a look at this guide from MDN on [How to Structure an HTML form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form). Also read over this article from A List Apart on [Sensible Forms](https://alistapart.com/article/sensibleforms) for more information on how to make forms more user friendly.
+Take a look at this guide from MDN on [Your First HTML Form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form). Also read over this article from A List Apart on [Sensible Forms](https://alistapart.com/article/sensibleforms) for more information on how to make forms more user friendly.
 
 
 # Basic Parts of a Form
@@ -37,14 +37,6 @@ Similar to the radio input type, the checkbox input type is great for when you h
 
 ### `<textarea>`
 This form widget allows you to give the user a space to enter a sizeable amount of free-form text, for example a comment.
-
-### `<select>`
-
-## Grouping and Labeling the Form
-### `<label>`
-
-### `<fieldset>`
-
 
 ## Submitting a Form
 

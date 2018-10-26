@@ -2,20 +2,40 @@
 
 ## Kickoff!
 
+### Intro
+
 * Purpose
+    * Great people doing meaningful, challenging work at great companies
 * Intros
-* Logistics
-    * Class time
-    * Class place
-    * Calendar
-* Systems
-    * Github
-    * Canvas
-    * Slack
-        * Class Channel
-        * Team (during project week)
-        * Direct Message (DM)
-    * Email
+    * Megan - Admissions Director
+    * Shannon - Career Services and Marketing Director
+    * Jordan - Lead Instructor
+    * Marty - Principal Instructor
+    * TAs
+        * Kevin
+        * Injoong
+        * Mariah
+        * Ryan
+        * Sarah
+    * You!
+        * Name and where you are from
+
+### Systems
+* Github
+* Canvas
+* Slack
+    * Class Channel _(Prefer over DM for questions!)_
+    * Team (during project week)
+    * Direct Message (DM)
+* Email (formal stuff)
+
+## Logistics
+
+* Class/Lab time
+    * Class - discussion and modelling based
+    * Lab - learn by doing the thing you're learning
+* Class/Lab place
+* Calendar
 
 ## Course Overview
 
@@ -37,7 +57,7 @@
 * Stacked Toolboxes 
 * Labs
     * Demonstrate Competency/Proficiency
-    * Expose Process Issues
+    * Expose Process Issues (aka make you stronger/better)
 
 ## Professional Expectations
 
@@ -68,6 +88,7 @@ make the computer do what is need.
 
 ## Academic Expectations
 
+* Laptop policy
 * Grades
 * Honor Code
 

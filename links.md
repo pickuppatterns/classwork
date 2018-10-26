@@ -10,9 +10,12 @@ Emoji | Type
 📕 | Docs / Reference
 👾 | Just for Fun
 🔨 | Tool
+📽️ | Video
 
 ## Topics:
 - CSS
+  - Animations
+  - Flexbox
   - General
   - Layout Methods
   - Media Queries
@@ -20,6 +23,7 @@ Emoji | Type
   - Colors
   - Mobile First
   - Responsive Web Design
+  - Typography
 - HTML
   - Semantic Elements
 - JavaScript
@@ -32,13 +36,26 @@ Emoji | Type
 
 # CSS
   
+  ## Animations
+  - 👾 [Animate.css](https://daneden.github.io/animate.css/)
+
+  ## Flexbox
+  - 📃📕 [CSS-Tricks: Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - 📕 [CSS Reference: Flexbox](https://cssreference.io/flexbox/)
+  - 👾 [Flexbox Froggy](https://flexboxfroggy.com/)
+  - 🔨 [Flexbox Layout Explorer](http://www.csstutorial.org/flex-both.html)
+  - 📰 [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184)
+  - 📽️ [What The Flexbox?!](https://flexbox.io/)
+
   ## General
+  - 🔨 [Can I Use?](https://caniuse.com/)
   - 📕 [w3Schools: Color](https://www.w3schools.com/cssref/css_colors_legal.asp)
   - 📃 [w3Schools: Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
   - 📕 [w3Schools: Units of Length](https://www.w3schools.com/cssref/css_units.asp)
   
   ## Layout Methods
   - 📰 [CSS-Tricks: All About Floats](https://css-tricks.com/all-about-floats/)
+  - 📰 [CSS-Tricks: Snippets - ClearFix](https://css-tricks.com/snippets/css/clear-fix/)  
  
   ## Media Queries
   - 📕 [MDN: Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#Media_features)
@@ -47,6 +64,7 @@ Emoji | Type
 
   ## Colors
   - 🎨 [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=all)
+  - 🎨 [Color Hunt](http://colorhunt.co/)
   - 🎨 [COLOURlovers](https://www.colourlovers.com/)
 
   ## Mobile First
@@ -55,6 +73,10 @@ Emoji | Type
 
   ## Responsive Web Design
   - 📰 [Smashing Magazine: Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+
+  ## Typography
+  - 📃 [Font Stacks](https://css-tricks.com/snippets/css/font-stacks/)
+  - 📰 [Typography.js](http://kyleamathews.github.io/typography.js/)
 
 
 # HTML
@@ -73,13 +95,15 @@ Emoji | Type
 # JavaScript
   ## General
   - 🔨 [AST Explorer](https://astexplorer.net/)
+  - 🔨 [Repl.it (JS Sandbox)](https://repl.it/repls/GigaJauntyFormula)
 
 # Tools
 
   ## Misc.
   - 👾 [Emoji Dictionary](https://emojipedia.org)
+  - 👾 [Emoji List (Unicode.org)](https://unicode.org/emoji/charts/emoji-list.html)
 
   ## VS Code 
   - [Required / Recommended Extensions list](VSCode-Extensions.md)
-  - 📕 [Emmet](https://docs.emmet.io/)
+  - 📕🔨 [Emmet](https://docs.emmet.io/)
 

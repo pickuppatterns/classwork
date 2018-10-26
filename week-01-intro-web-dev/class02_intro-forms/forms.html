@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Forms</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <section>
+    <h2>Quiz on doggos:</h2>
+    <form id="about-me-form" name="about-me-form"
+      onsubmit="event.preventDefault(); checkAboutMe();"
+      onreset="resetAboutMe()"
+    >
+      <div>
+        <label for="cats">Do I like cats?</label>
+        <input type="text" id="cats" name="cats" placeholder="yes/no" />
+      </div>
+
+      <div>
+        <label for="food">What is my favorite food?</label>
+        <input type="text" id="food" name="food" placeholder="hint: not pizza" />
+      </div>
+
+      <div>
+        <button type="submit">Guess</button>
+        <button type="reset">Play Again</button>
+      </div>
+
+      <p id="about-me-response"></p>
+    </form>
+
+  </section>
+
+  <section>
+    <h2>Guess My Favorite Number</h2>
+    <form id="guess-number-form"
+      onsubmit="event.preventDefault(); checkGuessNumber();"
+      onreset="resetGuessNumber()"
+    >
+      <div>
+        <label for="number">What is my favorite number?</label>
+        <input type="text" id="number" name="number" placeholder="1 - 10" />
+      </div>
+
+      <div>
+        <button type="submit" name="guess">Guess</button>
+        <button type="reset" name="play-again">Play Again</button>
+      </div>
+
+      <p id="guess-number-response"></p>
+    </form>
+
+  </section>
+
+  <script src="about-me.js"></script>
+  <script src="guess-number.js"></script>
+</body>
+</html>
