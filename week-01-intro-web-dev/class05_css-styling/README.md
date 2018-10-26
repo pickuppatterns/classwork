@@ -59,7 +59,7 @@ Oh the maths!
 
 ```css
 box-sizing: border-box;`
-``
+```
 
 ## Images
 
