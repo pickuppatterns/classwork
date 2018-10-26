@@ -3,13 +3,13 @@ Class 05 CSS Styling
 
 ## Agenda
 
+* Facilities Update
 * Career Services with Shannon Wolcott
 * Brief Lab and Pairing Review/Questions
 * Gists for Journals
 * CSS Style
 * Box Model
 * Images
-* Pair Programming Demo
 
 ## Career Services
 
@@ -55,10 +55,6 @@ box-sizing: border-box;`
 * `alt`
 * Content vs Style
 * CSS (cover, repeat, etc.)
-
-## Pair Programming Demo (if time)
-
-MadLibs
 
 ## labs
 
