@@ -11,6 +11,8 @@ Class 05 CSS Styling
 * Images
 * Pair Programming Demo
 
+FYI Quiz Published!
+
 ## Career Services
 
 Guest: **Shannon Wolcott**, Director of Career Services at Alchemy
