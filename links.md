@@ -19,6 +19,7 @@ Emoji | Type
   - General
   - Layout Methods
   - Media Queries
+  - Parallax
 - Design
   - Colors
   - Mobile First
@@ -49,6 +50,7 @@ Emoji | Type
 
   ## General
   - 🔨 [Can I Use?](https://caniuse.com/)
+  - 📕 [CSS Tricks (Blog)](https://css-tricks.com/)
   - 📕 [w3Schools: Color](https://www.w3schools.com/cssref/css_colors_legal.asp)
   - 📃 [w3Schools: Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
   - 📕 [w3Schools: Units of Length](https://www.w3schools.com/cssref/css_units.asp)
@@ -59,6 +61,9 @@ Emoji | Type
  
   ## Media Queries
   - 📕 [MDN: Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#Media_features)
+
+  ## Parallax
+  - 📃 [CSS Only Parallax Code](https://www.w3schools.com/howto/howto_css_parallax.asp)
 
 # Design
 
@@ -76,7 +81,10 @@ Emoji | Type
   - 📰 [Smashing Magazine: Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 
   ## Typography
+  - 🔨 [Font Pair](https://fontpair.co/)
+  - 🔨 [Font Joy (Font Pairings)](https://fontjoy.com/)
   - 📃 [Font Stacks](https://css-tricks.com/snippets/css/font-stacks/)
+  - 🔨 [Google Fonts](https://fonts.google.com/)
   - 📰 [Typography.js](http://kyleamathews.github.io/typography.js/)
 
 
