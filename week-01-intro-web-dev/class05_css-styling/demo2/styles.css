@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    /* background: url('../imgs/duckies.jpg') yellow;
+    background-size: cover;
+    background-position: bottom right;
+    background-repeat: no-repeat; */
+}
+
+body {
+    margin: 0;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+header {
+    overflow: hidden;
+    height: 50vh;
+}
+
+.background-img {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    object-position: bottom;
+    position: fixed;
+    top: 0;
+    z-index: -10;
+    opacity: 0.5;
+    filter: blur(2px);
+}
+
+img {
+    width: 250px;
+    filter: grayscale(1) blur(2px);
+    transition: 500ms;
+}
+
+img:hover {
+    filter: initial;
+}
+

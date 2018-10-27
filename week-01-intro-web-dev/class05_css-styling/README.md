@@ -3,19 +3,34 @@ Class 05 CSS Styling
 
 ## Agenda
 
+* Facilities Update
 * Career Services with Shannon Wolcott
+* Surveys and Quizzes 
 * Brief Lab and Pairing Review/Questions
 * Gists for Journals
 * CSS Style
 * Box Model
 * Images
-* Pair Programming Demo
 
 FYI Quiz Published!
+**Please be aware of noise level**
 
 ## Career Services
 
-Guest: **Shannon Wolcott**, Director of Career Services at Alchemy
+Shannon
+
+## Surveys and Quizzes
+
+Surveys:
+
+* Go out 5:45 PM on Friday
+* Reminder email Sunday if no response
+* Cut-off 11:45PM Sunday
+
+Quizzes: 
+
+* Quiz 1 published
+* Can retake as many times as you like
 
 ## Lab/Pairing Review
 
@@ -48,8 +63,8 @@ Guest: **Shannon Wolcott**, Director of Career Services at Alchemy
 Oh the maths!
 
 ```css
-box-sizing: border-box;`
-``
+box-sizing: border-box;
+```
 
 ## Images
 
@@ -57,10 +72,6 @@ box-sizing: border-box;`
 * `alt`
 * Content vs Style
 * CSS (cover, repeat, etc.)
-
-## Pair Programming Demo (if time)
-
-MadLibs
 
 ## labs
 
