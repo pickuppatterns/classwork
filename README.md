@@ -3,6 +3,7 @@
 # Resources
 - [VS Code Extensions](VSCode-Extensions.md)
 - [Links](links.md) - Collection of articles, docs, links, and other resources shared.
+- [Class Video Playlist](https://www.youtube.com/playlist?list=PLaRp-4Cc99agobg3Uxo0L-tFlhlXp-Eu0)
 
 # Class Overview
 - Week 1
