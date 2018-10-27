@@ -47,6 +47,7 @@ Emoji | Type
   - 🔨 [Flexbox Layout Explorer](http://www.csstutorial.org/flex-both.html)
   - 📰 [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184)
   - 📽️ [What The Flexbox?!](https://flexbox.io/)
+  - 📰📽️📕 [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184)
 
   ## General
   - 🔨 [Can I Use?](https://caniuse.com/)
