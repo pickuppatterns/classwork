@@ -12,6 +12,10 @@ let fruits = [
     }
 ];
 
+function saveFruits() {
+    localStorage.setItem('fruits', JSON.stringify(fruits));
+}
+
 const fruitsApi = {
     getAll() {
         const json = localStorage.getItem('fruits');
@@ -24,7 +28,14 @@ const fruitsApi = {
         // 1. add to our array
         fruits.push(fruit);
         // 2. save array to localStorage
-        localStorage.setItem('fruits', JSON.stringify(fruits));
+        saveFruits();
+    },
+    remove(fruit) {
+        const index = fruits.indexOf(fruit);
+        if(index !== -1) {
+            fruits.splice(index, 1);
+            saveFruits();
+        }
     }
 };
 

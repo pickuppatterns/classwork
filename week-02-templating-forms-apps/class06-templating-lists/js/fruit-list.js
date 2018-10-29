@@ -29,13 +29,25 @@ const fruitList = {
     // should include:
     // 1. initial fruits array
     // 1. onRemove callback
-    init(fruits) {
+    init(fruits, onRemove) {
         for(let i = 0; i < fruits.length; i++) {
             fruitList.add(fruits[i]);
         }
+        fruitList.onRemove = onRemove;
     },
     add(fruit) {
         const dom = makeFruit(fruit);
+
+        // do work of finding elements _before_ appending
+        const removeButton = dom.querySelector('button');
+        const listItem = dom.querySelector('li');
+
+        removeButton.addEventListener('click', function() {
+            fruitList.onRemove(fruit);
+            listItem.remove();
+        });
+
+        // append to <ul>, this will empty the fragment
         list.appendChild(dom);
     }
 };
