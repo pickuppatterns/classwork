@@ -73,3 +73,17 @@ const html = '<li class="' + className + '">' + result + '</li>';
 
 const html = `<li class="${className}">${result}</li>`;
 ```
+
+## Ternary
+
+Not a new feature, but something new for our toolbox!
+
+Conditional _expressions_:
+
+```js
+
+<condition> ? <true-part> : <false-part>
+
+x >= 0 ? 'positive' : 'negative'
+
+```
