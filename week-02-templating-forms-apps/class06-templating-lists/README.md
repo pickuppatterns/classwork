@@ -2,12 +2,24 @@ Class 06: Templating and Lists
 
 ## Agenda
 
+* Feedback
+* Code Review
 * ESNext
 * DOM Creation and Removal
 * Rendering Lists with Templates
 * DOM Events
 * Adding and Removing
 * `JSON` and Local Storage
+
+## Feedback
+
+* "Deep end", A lot to comprehend
+* TA Lab Review - more, ad hoc
+* Jargon
+* Not connecting with help you need
+* Time commitment
+
+## Code Review
 
 ## ESNext
 
