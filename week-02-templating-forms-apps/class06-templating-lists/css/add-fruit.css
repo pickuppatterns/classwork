@@ -24,6 +24,12 @@ form {
     align-items: center;
 }
 
+label {
+    margin: 0 10px 10px 0;
+    display: flex;
+    align-items: center;
+}
+
 @media screen and (max-width: 600px) {
     form {
         flex-direction: column;
@@ -36,11 +42,6 @@ form {
     }
 }
 
-label {
-    margin: 0 10px 10px 0;
-    display: flex;
-    align-items: center;
-}
 
 input {
     margin-left: 5px;
