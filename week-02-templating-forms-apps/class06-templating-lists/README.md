@@ -13,15 +13,20 @@ Class 06: Templating and Lists
 
 [Modules, Variables, and Template Literals](esnext.md)
 
-## DOM Creation and Removal
+## Using Object Literals
 
-## Rendering Lists with Templates
+* data - _properties only_
+* utility objects - _methods organized around state_
+    * components - _data, dom and events_
+    * service api - _get and save data_
 
-## DOM Events
+## Demo: Fruit Stand
 
-## Adding and Removing
-
-## JSON and Local Storage
+* DOM Creation and Removal
+* Rendering Lists with Templates
+* DOM Events
+* Adding and Removing
+* JSON and Local Storage
 
 ## Lab
 
