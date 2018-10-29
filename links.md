@@ -45,7 +45,6 @@ Emoji | Type
   - 📕 [CSS Reference: Flexbox](https://cssreference.io/flexbox/)
   - 👾 [Flexbox Froggy](https://flexboxfroggy.com/)
   - 🔨 [Flexbox Layout Explorer](http://www.csstutorial.org/flex-both.html)
-  - 📰 [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184)
   - 📽️ [What The Flexbox?!](https://flexbox.io/)
   - 📰📽️📕 [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184)
 
@@ -57,6 +56,7 @@ Emoji | Type
   - 📕 [w3Schools: Units of Length](https://www.w3schools.com/cssref/css_units.asp)
   
   ## Layout Methods
+  - 📃📕 [CSS Layout Cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
   - 📰 [CSS-Tricks: All About Floats](https://css-tricks.com/all-about-floats/)
   - 📰 [CSS-Tricks: Snippets - ClearFix](https://css-tricks.com/snippets/css/clear-fix/)  
  
