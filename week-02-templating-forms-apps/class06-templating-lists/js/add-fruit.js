@@ -26,7 +26,8 @@ const addFruit = {
 
             onAdd(fruit);
 
-
+            form.reset();
+            document.activeElement.blur();
         });
 
     }
