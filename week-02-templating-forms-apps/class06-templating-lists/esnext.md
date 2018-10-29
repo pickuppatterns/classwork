@@ -60,7 +60,7 @@ Introducing `const` and `let`:
 const greeting = 'hello ' + name + '!';
 
 // We can write:
-const greeting = `hello ${name}`;
+const greeting = `hello ${name}!`;
 
 ```
 
