@@ -6,7 +6,7 @@ function makeFruit(fruit) {
             <h3 class="name" style="background: ${fruit.color};">
                 ${fruit.name}
             </h3>
-            <img src="assets/${fruit.image}">
+            <img src="assets/${fruit.image ? fruit.image : 'logo.png'}">
             <button class="danger">X</button>
         </li>
     `;
