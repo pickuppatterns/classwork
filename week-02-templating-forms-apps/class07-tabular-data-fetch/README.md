@@ -32,6 +32,10 @@ Managing state (data):
 * use single `html` template function
 * use `this` to refer to current object
 
+## Tables
+
+Perfect for tabular data!
+
 ## Array Filtering and Sorting
 
 * Functional methods (take a callback!)
@@ -48,4 +52,4 @@ Managing state (data):
 
 ## Lab
 
-`pokedex`
+`lab-07-pokedex`
