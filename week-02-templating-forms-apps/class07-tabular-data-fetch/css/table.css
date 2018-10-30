@@ -1,0 +1,30 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    font-weight: bold;
+}
+
+td {
+    padding: 7px 0; 
+}
+
+tr:nth-child(even) {
+    background: rgb(240, 240, 240);
+}
+
+.sort {
+    white-space: nowrap;
+    padding: 0 3px;
+}
+
+.sort.desc::after {
+    content: "▼"
+}
+
+.sort.asc::after {
+    content: "▲"
+}

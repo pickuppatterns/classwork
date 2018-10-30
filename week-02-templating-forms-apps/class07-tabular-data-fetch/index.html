@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Contacts</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/table.css">
+</head>
+<body>
+    <header>
+        <img class="logo" src="assets/logo.png">
+        <h1>Contacts</h1>
+    </header>
+    
+    <main>    
+        <section id="filter" class="secondary">
+            <h2>Search</h2>
+            <label>
+                Name:
+                <input required id="filter-name">
+            </label>
+        </section>
+
+        <section>
+            <h2>Contacts</h2>
+            <table>
+                <thead id="contacts-header">
+                    <tr>
+                        <td>Name</td>
+                        <td>...</td>
+                    </tr>
+                </thead>
+                <tbody id="contacts-body"></tbody>
+            </table>
+        </section>
+
+    </main>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
