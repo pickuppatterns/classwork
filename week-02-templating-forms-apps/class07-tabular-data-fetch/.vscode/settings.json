@@ -1,0 +1,12 @@
+{
+    "cSpell.language": "en",
+    "cSpell.ignorePaths": [
+        "**/package-lock.json",
+        "**/node_modules/**",
+        "**/vscode-extension/**",
+        "**/.git/**",
+        "js/data/contacts.js",
+        ".vscode",
+        "typings"
+    ]
+}
