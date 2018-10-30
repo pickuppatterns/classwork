@@ -112,6 +112,7 @@ Emoji | Type
 
   ## Chrome
   - 🔨 [One Tab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en)
+  - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=en-US)
 
   ## Misc.
   - 👾 [Emoji Dictionary](https://emojipedia.org)
